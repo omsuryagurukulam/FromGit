@@ -11,6 +11,7 @@ namespace Gitone
         static void Main(string[] args)
         {
             Console.WriteLine("I am new to git");
+            Console.WriteLine("Update git");
             Console.ReadLine();
         }
     }
